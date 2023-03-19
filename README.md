@@ -2,6 +2,8 @@
 
 Parallax Website is a simple web-based project that showcases the use of parallax effect to create a visually stunning and engaging user experience. Built using HTML and CSS, it is inspired by various parallax projects on the internet and aims to provide a starting point for those who want to learn and experiment with this popular web design technique.
 
+![Gif](Parallax.gif)
+
 ## Demo
 
 You can view the live demo of the Parallax Website by clicking [here](https://karthik-beta.github.io/Parallax-Website/)
