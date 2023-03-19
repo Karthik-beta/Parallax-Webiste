@@ -4,7 +4,7 @@ Parallax Website is a simple web-based project that showcases the use of paralla
 
 ## Demo
 
-You can view the live demo of the Parallax Website by clicking [here]
+You can view the live demo of the Parallax Website by clicking [here](https://karthik-beta.github.io/Parallax-Website/)
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ To get started with this project, simply download the ZIP file or clone the repo
 * Navigate to the directory where you want to clone the repository.
 * Type the following command and press enter:
 
-git clone: `https://github.com/your-username/parallax-website.git`
+git clone: `https://github.com/Karthik-beta/Parallax-Website.git`
 
 ### Running
 
