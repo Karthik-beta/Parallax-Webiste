@@ -39,4 +39,4 @@ You can easily customize the website by modifying the CSS file. The colors, font
 
 ## Acknowledgments
 
-This project is inspired by various parallax projects on the internet. We would like to thank the creators of these projects for their inspiration and guidance.
+This project is inspired by various parallax projects on the internet. I would like to thank the creators of these projects for their inspiration.
